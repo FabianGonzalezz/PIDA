@@ -59,7 +59,7 @@ En este caso podemos ver que en 2017, 2019 y 2020 el KPI propuesto de reducir en
 ![KPI 2](imagenes/kpi2.png)
 
 
-Por ultimo podemos ver que el KPI se cumple tanto el años 2018, como 2019 y 2021. Siendo casi cumplido en 2020 tambien. Y si bien en 2017 no se cumplio podemos ver que, a pesar de no tener restricciones o problemas externos (como el COVID-19) desde ese año hay una reduccion considerable de accidentes en la comuna 1. Este KPI se decidio precisamente por ser la zona mas concurrida de CABA, donde trabajadores de todas partes de la provincia se reunen todos los dias para realizar su joranda laborarl.
+Por ultimo podemos ver que el KPI se cumple tanto el años 2018, como 2019 y 2021. Siendo casi cumplido en 2020 tambien. Y si bien en 2017 no se cumplio podemos ver que, a pesar de no tener restricciones o problemas externos (como el COVID-19) desde ese año hay una reduccion considerable de accidentes en la comuna 1. Este KPI se decidio precisamente por ser la zona mas concurrida de CABA, donde trabajadores de todas partes de la provincia se reunen todos los dias para realizar su joranda laboral.
 
 ![KPI 3](imagenes/kpi3.png)
 
@@ -69,5 +69,6 @@ Por ultimo podemos ver que el KPI se cumple tanto el años 2018, como 2019 y 202
 1. En la carpeta src hay un csv llamado homicidiosactualizado.csv. En este archivo esta el dataset limpio que se utilizo para el dashboard de Power Bi.
 2. El archivo homicidios.csv. Es el dataset antes de pasar por una segunda limpieza en Power Bi.
 3. En el notebook main.ipynb se puede ver el proceso documentado por el cual se realizo la limpieza de datos y la creacion de los graficos y KPIs aqui propuestos.
+4. Dentro de los datasets podemos encontrar un dato resumido que es SD. Esto significa Sin datos. No quise eliminarlo del dataset ya que en muchas ocasiones es un solo registro el que no presenta datos y no queria ensuciar el análisis.
 
 Si tienes preguntas o comentarios, puedes contactarme en [Gmail](mailto:fabiann.m.gonzalez@gmail.com) o a través de mi perfil de GitHub: [Github](https://github.com/FabianGonzalezz/).
