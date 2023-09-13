@@ -20,17 +20,26 @@ El proyecto consta de las siguientes funcionalidades principales:
 
 ## EDA
 
-Podemos ver en el siguiente grafico que la cantidad de juegos gratuitos en la plataforma Steam aumenta considerablemente de año a año. Ademas podemos ver que el salto principal de cantidad se da entre 2015 y 2016, siendo en 2015 aproxidamente 200 y en 2016 casi llegando a 500.
+Podemos ver en el siguiente grafico que la mayor cantidad de accidentes ocurridos en la Ciudad Autonoma de Buenos Aires son en la comuna 1. Esto es un hecho normal, ya que es el conocido Microcentro de Buenos Aires y una de las zonas mas concurridas diariamente.
 
 ![Analisis del precio promedio en relacion con el anio de salida](imagenes/incidentescomuna.png)
 
-Podemos ver en el siguiente grafico que de la totalidad de juegos, los generos mas repetidos son los de Indie, Accion, Casual y Aventura. Ademas vemos que la cantidad de juegos Indie supera por casi el doble al tercer puesto del ranking (Casual).
+Podemos ver en el siguiente grafico que en un plano general los accidentes pueden ocurrir en cualquier rango horario. Sin embargo, segun el analisis realizado, suele ser durante la mañana el momento donde mas se producen.
 
-![Analisis del precio proomedio en relacion con el sentimiento registrado](src/images/ranking_generos.png)
+![Analisis del precio proomedio en relacion con el sentimiento registrado](imagenes/rango_horario.png)
 
-Podemos ver en el siguiente grafico de torta la distribucion del analisis de sentimiento. Siendo casi irrelevantes la cantidad de sentimientos Neutrales con solo un 0.6% del total. Vemos por otro lado un 18.2% de sentimientos Negativos y superando por mucho a las anteriores categorias encontramos con un 81.2% juegos con un sentimiento positivo. Un numero bastante bueno teniendo en cuenta la cantidad de juegos que se lanzan todos los años.
+Con una amplia diferencia sobre el resto de tipos de calle podemos observar que las avenidas suelen ser las zonas donde mas accidentes se producen.
 
-![Analisis del precio proomedio en relacion con el sentimiento registrado](src/images/sentimientos.png)
+![Analisis del precio proomedio en relacion con el sentimiento registrado](imagenes/tipocalle.png)
+
+La mayor cantidad de victimas en siniestros viales en la ciudad de Buenos Aires son de Motociclistas, seguidos de Peatones. Esto a mi criterio es normal, debido a que muchas veces los peatones suelen ir distraidos a la hora de cruzar una calle y los motociclistas suelen aprovechar los espacios entre los autos para acelerar el viaje, dando como resultados accidentes.
+
+![Analisis del precio proomedio en relacion con el sentimiento registrado](imagenes/tipovictima.png)
+
+Como podemos observar, hay una gran reduccion de los accidentes viales entre los años 2019 y 2021. Esto es debido principalmente por la pandemia del COVID-19 y la baja circulacion de vehiculos en esa epoca.
+
+![Analisis del precio proomedio en relacion con el sentimiento registrado](imagenes/victimasanios.png)
+
 
 ## Consideraciones
 
